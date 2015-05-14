@@ -14,12 +14,12 @@ Contract available:
 
 
 Contract requierements to be offered: 
--Doesn't start offering relays until a homeworld relay is launched (not necesarry to have been done under a contract)
--Doesn't start offering relays until that body is already pointed by a dish (not necesarry to have been done under a contract)
--Doesn't start pointing moons until their parent planet is pointed (not necesarry to have been done under a contract)
--Doesn't start offering relays networks on moons until their parent is covered by a relay network (not necesarry to have been done under a contract)
--Doesn't start offering contracts for another planets until Long Dishes have been discovered.
--Doesn't start to offer contract to planet number 6 (Jool in stock)  until gigadish are discovered
+- Doesn't start offering relays until a homeworld relay is launched (not necesarry to have been done under a contract)
+- Doesn't start offering relays until that body is already pointed by a dish (not necesarry to have been done under a contract)
+- Doesn't start pointing moons until their parent planet is pointed (not necesarry to have been done under a contract)
+- Doesn't start offering relays networks on moons until their parent is covered by a relay network (not necesarry to have been done under a contract)
+- Doesn't start offering contracts for another planets until Long Dishes have been discovered.
+- Doesn't start to offer contract to planet number 6 (Jool in stock)  until gigadish are discovered
   
 Assumptions: 
  - It assumes that homeworld is a planet (not a moon). 
@@ -33,8 +33,7 @@ LICENSE: CC-BY-NC-SA-4.0
 
 Credit:
 
-nightingale for creating contract configurator and the original remotetech contract pack: http://forum.kerbalspaceprogram.com/threads/106580. If you are using stock that original pack has more detail since its less generic.
-
-Remote Tech creators: http://forum.kerbalspaceprogram.com/threads/83305
+- nightingale for creating contract configurator and the original remotetech contract pack: http://forum.kerbalspaceprogram.com/threads/106580. If you are using stock that original pack has more detail since its less generic.
+- Remote Tech creators: http://forum.kerbalspaceprogram.com/threads/83305
 
 
