@@ -21,4 +21,20 @@ Doesn't start offering relays networks on moons until their parent is covered by
 Doesn't start offering contracts for another planets until Long Dishes have been discovered.
 Doesn't start to offer contract to planet number 6 (Jool in stock)  until gigadish are discovered
   
-Assumptions: It assumes that homeworld is a planet (not a moon). 
+Assumptions: 
+ - It assumes that homeworld is a planet (not a moon). 
+
+Mods Requierements: 
+
+ - Remote Tech http://forum.kerbalspaceprogram.com/threads/83305. Otherise no contract is offered
+ - Contract Configurator http://forum.kerbalspaceprogram.com/threads/101604
+
+LICENSE: CC-BY-NC-SA-4.0
+
+Credit:
+
+nightingale for creating contract configurator and the original remotetech contract pack: http://forum.kerbalspaceprogram.com/threads/106580. If you are using stock that original pack has more detail since its less generic.
+
+Remote Tech creators: http://forum.kerbalspaceprogram.com/threads/83305
+
+
