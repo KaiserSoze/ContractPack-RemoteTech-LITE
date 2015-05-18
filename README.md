@@ -1,5 +1,5 @@
 # ContractPack-RemoteTechLITE
-contract Packs for Remote Tech valid for Mods (contract proceduraly generated no matter number and name of bodies)
+contract Packs for Remote Tech valid for Mods (contract procedurally generated no matter number and name of bodies)
 
 Contract available:
 - Have a network relay on homeworld: Requires 3-4 stallites
